@@ -1,4 +1,3 @@
-# AnyPS5Easy
 <div align="center">
 
 <img src="https://anyps5easy.site/assets/logo.png?v=2" width="120" alt="AnyPS5 Easy logo">
@@ -10,9 +9,9 @@
 
 [![Download](https://img.shields.io/badge/Download-Windows-2b8cff?style=for-the-badge&logo=windows)](https://anyps5easy.site/download/app)
 [![Website](https://img.shields.io/badge/Website-anyps5easy.site-111?style=for-the-badge)](https://anyps5easy.site)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cwC2rWR2A3)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kKzcjCwths)
 
-<img src="https://anyps5easy.site/assets/shots/app-en.jpg?v=1" width="860" alt="AnyPS5 Easy — game library">
+<img src="docs/home-en.jpg" width="860" alt="AnyPS5 Easy — home screen">
 
 </div>
 
@@ -31,9 +30,15 @@ AnyPS5 Easy is a friendly Windows app built around the open-source **AnyPS5** en
 - **Controllers** — PS5 DualSense, PS4 DualShock and Xbox controllers, including a full-screen **TV mode**.
 - **Crash Doctor** — explains why a game closed and how to fix it; the game's log is saved automatically.
 - **PC check** — checks your graphics card, driver, RAM and free space before converting (skippable).
-- **Uninstaller** — removes any Windows program down to its roots (files, registry, shortcuts, services) with a backup.
+- **Uninstaller & PC tools** — removes any Windows program down to its roots (files, registry, shortcuts, services) with a backup, plus PC cleanup, startup apps, “What's eating my disk?” and network tweaks for games.
+- **Low-end PC boost** — checks your PC and turns on what really helps, each change reversible.
+- **“Will it run on your PC?”** — real FPS numbers from players with the same graphics card.
 - **Stats & achievements** — playtime, FPS and badges.
-- **Arabic & English**, light & dark themes, and updates that install themselves.
+- **Arabic & English**, light & dark themes, and updates that install themselves (only when you're away).
+
+<div align="center">
+<img src="docs/convert-en.jpg" width="860" alt="Convert a PS5 game">
+</div>
 
 ## 💎 Free vs Premium
 
@@ -48,7 +53,7 @@ Plans start at **$4.99/month** — see [pricing](https://anyps5easy.site/pricing
 
 ## 📥 Download & install
 
-1. Download the latest version: **[AnyPS5Easy.exe](https://anyps5easy.site/download/app)**
+1. Download the latest version from **[anyps5easy.site/download/app](https://anyps5easy.site/download/app)** (a small setup that always gets the newest build and checks it), or the full app from **[Releases](../../releases/latest)**.
 2. Run it. If Windows SmartScreen appears, click **More info → Run anyway** (the app isn't code-signed yet).
 3. Follow the short setup — done.
 
@@ -56,7 +61,7 @@ Plans start at **$4.99/month** — see [pricing](https://anyps5easy.site/pricing
 
 ## 🛟 Support
 
-- Discord: https://discord.gg/cwC2rWR2A3
+- Discord: https://discord.gg/kKzcjCwths
 - Email: cloud88560@gmail.com
 - Help center & FAQ: https://anyps5easy.site/faq
 
@@ -74,12 +79,17 @@ Plans start at **$4.99/month** — see [pricing](https://anyps5easy.site/pricing
 - دعم دراعات PS5 و PS4 و Xbox، ووضع التلفزيون.
 - «دكتور الكراش» اللي بيقولك اللعبة قفلت ليه وإزاي تصلحها.
 - فحص الجهاز قبل التحويل.
-- إزالة البرامج من جذورها.
+- إزالة البرامج من جذورها، وأدوات الجهاز (تنظيف، برامج بتفتح مع الويندوز، «مين واكل الهارد؟»).
+- «وضع الأجهزة الضعيفة» و«هتشتغل على جهازك؟» بأرقام حقيقية من اللاعبين.
 - عربي وإنجليزي، وثيم فاتح وغامق، والتحديثات بتتثبّت لوحدها.
+
+<div align="center">
+<img src="docs/home-ar.jpg" width="860" alt="AnyPS5 Easy بالعربي">
+</div>
 
 **التحميل:** [AnyPS5Easy.exe](https://anyps5easy.site/download/app) — ولو ظهر تحذير الويندوز الأزرق دوس «More info» وبعدين «Run anyway».
 
-**الدعم:** [Discord](https://discord.gg/cwC2rWR2A3) · cloud88560@gmail.com · [الأسئلة الشائعة](https://anyps5easy.site/faq?lang=ar)
+**الدعم:** [Discord](https://discord.gg/kKzcjCwths) · cloud88560@gmail.com · [الأسئلة الشائعة](https://anyps5easy.site/faq?lang=ar)
 
 ---
 
